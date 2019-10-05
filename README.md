@@ -1,0 +1,2 @@
+# VultrixOfficialWebsite
+GitHub Pages
